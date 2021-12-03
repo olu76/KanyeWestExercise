@@ -1,0 +1,16 @@
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\KanyeREST Console.exe
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\KanyeREST Console.deps.json
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\KanyeREST Console.runtimeconfig.json
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\KanyeREST Console.runtimeconfig.dev.json
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\KanyeREST Console.dll
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\KanyeREST Console.pdb
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.csproj.AssemblyReference.cache
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.AssemblyInfoInputs.cache
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.AssemblyInfo.cs
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.csproj.CoreCompileInputs.cache
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.csproj.CopyComplete
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.dll
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.pdb
+C:\Users\midas\Desktop\TestRepo\KanyeREST\KanyeREST Console\obj\Debug\netcoreapp3.1\KanyeREST Console.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSvzB0UlSvpObhAeH34BpUf2Y1Ocre89o9J9qTRpinKRSMXn1b1b3tZhuPw3eVtoMm6gMc4F6tLQUZOXWUzk8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\midas\\Desktop\\TestRepo\\KanyeREST\\KanyeREST Console\\KanyeREST Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\midas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
